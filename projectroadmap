@@ -1,0 +1,54 @@
+## Initial Tasks for Sprint 1
+- [ ] Create repository
+- [ ] Define project goals and features in readme.md
+- [ ] Add project roadmap to plan out the project 
+- [ ] Find related repositories on Github to help guide workflow
+
+## Core Setup
+- [ ] Initialize the project structure
+- [ ] Create basic CLI interface
+- [ ] Implement password entry storage 
+- [ ] Design data model for stored credentials
+
+---
+
+## Local Storage System
+- [ ] Save credentials to local file 
+- [ ] Load stored passwords on startup
+- [ ] Add ability to add new entries
+- [ ] Add ability to view saved entries
+
+---
+
+## Security Layer
+- [ ] Implement password hashing (bcrypt or hashlib)
+- [ ] Add master password authentication
+- [ ] Encrypt stored data (Fernet encryption)
+- [ ] Secure key management approach
+
+---
+
+## Functionality Expansion
+- [ ] Add delete password feature
+- [ ] Add update/edit password feature
+- [ ] Add search functionality
+- [ ] Improve CLI usability and input validation
+
+---
+
+## Usability Improvements
+- [ ] Better CLI menu system
+- [ ] Error handling improvements
+- [ ] Input sanitization
+- [ ] User-friendly prompts and formatting
+
+---
+
+## Potential Enhancements
+- [ ] Password generator tool
+- [ ] Clipboard copy feature
+- [ ] Auto-lock after inactivity
+- [ ] Export/import encrypted backups
+
+---
+
