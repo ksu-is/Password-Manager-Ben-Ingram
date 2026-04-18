@@ -1,1 +1,3 @@
 # Password-Manager-Ben-Ingram
+This project would allow people to secure the passwords in a secure, encrypted way. While it is saved in the file, the passwords would be converted into unreadable data, so others wouldn’t be able to access the file and see all the user’s passwords. I would use Fernet for encryption. A master password would be needed in order to access the data. Once the master password is entered, the program would hash it, compare it to the stored hash, and then grant access if it is correct. 
+People who would use this program include students, professionals, or people with many online accounts.
