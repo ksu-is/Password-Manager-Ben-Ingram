@@ -1,14 +1,14 @@
 ## Initial Tasks for Sprint 1
-- [ ] Create repository
-- [ ] Define project goals and features in readme.md
-- [ ] Add project roadmap to plan out the project 
-- [ ] Find related repositories on Github to help guide workflow
+- [x] Create repository
+- [x] Define project goals and features in readme.md
+- [x] Add project roadmap to plan out the project 
+- [x] Find related repositories on Github to help guide workflow
 
 ## Core Setup
-- [ ] Initialize the project structure
+- [x] Initialize the project structure
 - [ ] Create basic CLI interface
-- [ ] Implement password entry storage 
-- [ ] Design data model for stored credentials
+- [x] Implement password entry storage 
+- [x] Design data model for stored credentials
 
 ---
 
