@@ -13,10 +13,10 @@
 ---
 
 ## Local Storage System
-- [ ] Save credentials to local file 
-- [ ] Load stored passwords on startup
-- [ ] Add ability to add new entries
-- [ ] Add ability to view saved entries
+- [x] Save credentials to local file 
+- [x] Load stored passwords on startup
+- [x] Add ability to add new entries
+- [x] Add ability to view saved entries
 
 ---
 
@@ -30,7 +30,7 @@
 
 ## Functionality Expansion
 - [ ] Add delete password feature
-- [ ] Add update/edit password feature
+- [x] Add update/edit password feature
 - [ ] Add search functionality
 - [ ] Improve CLI usability and input validation
 
