@@ -6,7 +6,7 @@
 
 ## Core Setup
 - [x] Initialize the project structure
-- [ ] Create basic CLI interface
+- [x] Create basic CLI interface
 - [x] Implement password entry storage 
 - [x] Design data model for stored credentials
 
@@ -21,33 +21,32 @@
 ---
 
 ## Security Layer
-- [ ] Implement password hashing (bcrypt or hashlib)
-- [ ] Add master password authentication
-- [ ] Encrypt stored data (Fernet encryption)
-- [ ] Secure key management approach
+- [x] Implement password hashing (bcrypt or hashlib)
+- [x] Add master password authentication
+- [x] Encrypt stored data (Fernet encryption)
+- [x] Secure key management approach
 
 ---
 
 ## Functionality Expansion
-- [ ] Add delete password feature
+- [x] Add delete password feature
 - [x] Add update/edit password feature
-- [ ] Add search functionality
-- [ ] Improve CLI usability and input validation
+- [x] Add search functionality
+- [x] Improve CLI usability and input validation
 
 ---
 
 ## Usability Improvements
-- [ ] Better CLI menu system
-- [ ] Error handling improvements
-- [ ] Input sanitization
-- [ ] User-friendly prompts and formatting
+- [x] Better CLI menu system
+- [x] Error handling improvements
+- [x] Input sanitization
+- [x] User-friendly prompts and formatting
 
 ---
 
 ## Potential Enhancements
 - [ ] Password generator tool
 - [ ] Clipboard copy feature
-- [ ] Auto-lock after inactivity
 - [ ] Export/import encrypted backups
 
 ---
